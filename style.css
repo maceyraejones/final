@@ -239,21 +239,8 @@ h2 {
 
 .service-items img {
     margin-bottom: 20px;
-}
-
-#service1{
-  height: 10px;
-  width:25%;
-}
-
-#service2{
-  height: 10px;
-  width:50%; 
-}
-
-#service3{
-  height: 10px;
-  width:75%; 
+    height: 100px;
+    width: 50%;
 }
 
 .service-items {
