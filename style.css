@@ -244,8 +244,8 @@ h2 {
 }
 
 #service1 {
-    width: 570px;
-    height: 390px;
+    width: 100%;
+    height: 100%;
 }
 
 .service-items {
