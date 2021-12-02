@@ -243,17 +243,17 @@ h2 {
 
 #service1{
   height: 10px;
-  width:10px;
+  width:25%;
 }
 
 #service2{
   height: 10px;
-  width:10px; 
+  width:50%; 
 }
 
 #service3{
   height: 10px;
-  width:10px; 
+  width:75%; 
 }
 
 .service-items {
